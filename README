@@ -1,11 +1,37 @@
-# Kenneth Nnorom
+<h1 align="center">Kenneth Nnorom</h1>
+<p align="center">Network Security Engineer · Lagos, Nigeria</p>
 
-Network Security Engineer | Researcher 
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-Enterprise%20%26%20Data%20Center-0A9396?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Network%20%26%20AD-CA6702?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Python-005F73?style=flat-square" />
+</p>
 
-## Core
-* Enterprise Network Infrastructure & Data Center Deployment
-* Network Security, Automation, and Visibility
-* Empirical Research
+---
 
-## Connect
-* Website: kennethnnorom.com
+### What I work on
+
+**Enterprise & Data Center Networking**
+MPLS WANs, VXLAN/EVPN fabrics, Cumulus Linux deployments across field sites and head office infrastructure.
+
+**Network Security & Assessment**
+Active Directory hardening, wireless and WAN exposure analysis, vulnerable-AD lab work (pfSense/Snort, Wazuh, Kali Purple).
+
+**Automation & Visibility**
+Python tooling for network diagnostics and monitoring — route classification, ARP/HSRP/VRRP pattern matching, custom platforms.
+
+### Featured project
+
+> **[LNMP — Linux Network Monitoring Platform](#)**
+> FastAPI · TimescaleDB · Vue — built as both a production tool and a structured Python-learning project.
+
+### Background
+
+Electrical & Computer Engineering roots, now anchored in network engineering and cybersecurity. I write about breach analysis, lab builds, and infrastructure design, with a bias toward empirical over theoretical.
+
+---
+
+<p align="center">
+  <a href="https://kennethnnorom.com">Website</a> ·
+  <a href="https://linkedin.com/in/kennethnnorom">LinkedIn</a>
+</p>
